@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <main>
       <div className="container">
-        <h3>Don't Laugh Challenge</h3>
+        <h3>Don't Laugh Challenge!</h3>
         <div id="joke" className="joke">{joke}</div>
        
     </div>
